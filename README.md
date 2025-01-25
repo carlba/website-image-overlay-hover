@@ -1,11 +1,5 @@
-# HTML and CSS Template
+# Image Overlay Hover
 
-Template for new Websites
+Images with text overlay
 
-## Usage
-
-### Clone the Repository
-
-```bash
-git clone https://github.com/carlba/html-and-css-template
-```
+Based on https://css-tricks.com/design-considerations-text-images/
